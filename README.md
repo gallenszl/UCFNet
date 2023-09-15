@@ -12,12 +12,12 @@ Due to the domain differences and unbalanced disparity distribution across multi
 
 ### stereo depth estimation (stereo matching)
 <div align="center">
-    <img src="https://github.com/PaddlePaddle/PaddleDepth/blob/develop/docs/images/stereo.gif" width = "400" />
+    <img src="https://github.com/gallenszl/UCFNet/blob/main/demo/demo_stereo_v2.gif" width = "400" />
 </div>
 
 ### monocular depth estimation
 <div align="center">
-    <img src="https://github.com/PaddlePaddle/PaddleDepth/blob/develop/docs/images/monocular.gif" width = "400" />
+    <img src="https://github.com/gallenszl/UCFNet/blob/main/demo/demo_monocular_v2.gif" width = "400" />
 </div>
 
 ## Citation
