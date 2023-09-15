@@ -10,12 +10,12 @@ Due to the domain differences and unbalanced disparity distribution across multi
 
 ## 👀 Visualization
 
-### stereo depth estimation (stereo matching)
+### Stereo depth estimation (stereo matching)
 <div align="center">
     <img src="https://github.com/gallenszl/UCFNet/blob/main/demo/demo_stereo_v2.gif" width = "400" />
 </div>
 
-### monocular depth estimation
+### Monocular depth estimation
 <div align="center">
     <img src="https://github.com/gallenszl/UCFNet/blob/main/demo/demo_monocular_v2.gif" width = "400" />
 </div>
